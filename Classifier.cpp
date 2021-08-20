@@ -1,6 +1,6 @@
 /* 
  * File:   Classifier.cpp
- * Author: Udhav
+ * Author: Ujjwal Singh
  * 
  * Created on 4 May, 2020, 7:33 PM
  */
