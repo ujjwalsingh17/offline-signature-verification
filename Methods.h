@@ -1,6 +1,6 @@
 /* 
  * File:   Methods.h
- * Author: ayush
+ * Author: Ujjwal Singh
  *
  * Created on 12 October, 2012, 11:28 AM
  */
